@@ -1,4 +1,4 @@
-class Itex < Formula
+class rexit < Formula
   desc "Liberate your Reddit Chats"
   homepage ""
   url "https://github.com/mpult/rexit/archive/refs/tags/v0.1.1.tar.gz"
