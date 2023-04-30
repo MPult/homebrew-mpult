@@ -14,4 +14,4 @@ class Itex < Formula
   test do
     system "false"
   end
-endk
+end
